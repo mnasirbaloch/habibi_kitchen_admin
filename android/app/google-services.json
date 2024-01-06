@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "723490719489",
+    "project_id": "habibi-kitchen",
+    "storage_bucket": "habibi-kitchen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723490719489:android:bd688bc109a26d5e507d00",
+        "android_client_info": {
+          "package_name": "com.example.habibi_kitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723490719489-emrbe5s58a4bjfbj67cb831s5f4obee1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.habibi_kitchen",
+            "certificate_hash": "b7d225ba625afa0dc57c894adeb3aa3f7d4e17c3"
+          }
+        },
+        {
+          "client_id": "723490719489-topn4qo68dd5hoedrqbm03me10b90beg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxDsG2Pq_Fb9n9g7gWrR5bSm0HxSy1Rjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723490719489-1m8f7n3vdl0sblbgt3ujl32s0rm0s1ui.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "723490719489-2pguars1dhtqkds772an9djq6g648uot.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.habibiKitchenAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723490719489:android:cab240ae99357a00507d00",
+        "android_client_info": {
+          "package_name": "com.example.habibi_kitchen_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723490719489-topn4qo68dd5hoedrqbm03me10b90beg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxDsG2Pq_Fb9n9g7gWrR5bSm0HxSy1Rjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723490719489-1m8f7n3vdl0sblbgt3ujl32s0rm0s1ui.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "723490719489-2pguars1dhtqkds772an9djq6g648uot.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.habibiKitchenAdmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
